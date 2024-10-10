@@ -39,7 +39,6 @@ between happiness factors for the top 10 countries and an interactive scatter pl
 <img width="1507" alt="Screenshot 2024-10-10 at 5 54 54 PM" src="https://github.com/user-attachments/assets/270c7d73-37d5-441c-bcca-0ce63c26ba95">
 
 
-(https://www.figma.com/design/V1NfUYcf1hLHd2lE51fVJa/Untitled?node-id=0-1&t=FoKz9Pb3IEuVv2fQ-1)
 
 Here’s a link to my working visualization in VizHub (https://vizhub.com/SamyAttia/efae66c35b3847d18a3ce08f3db35fba?mode=embed). 
 This shows the heatmap and scatter plot along with country flags for visual clarity and user interaction.
