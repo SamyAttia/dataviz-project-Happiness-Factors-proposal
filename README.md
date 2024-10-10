@@ -29,6 +29,16 @@ Below is a sketch of the envisioned interactive visualization:
  * Scatter Plot View: Upon clicking a heatmap cell, a scatter plot appears, showing the relationship between two happiness factors for all countries.
    This allows for deeper exploration of the relationships between individual factors.
    
+## Prototype
+
+I’ve created a proof-of-concept visualization of this data. It currently includes a heatmap for visualizing correlations 
+between happiness factors for the top 10 countries and an interactive scatter plot that allows for further exploration of these relationships.
+
+(https://www.figma.com/design/V1NfUYcf1hLHd2lE51fVJa/Untitled?node-id=0-1&t=FoKz9Pb3IEuVv2fQ-1)
+
+Here’s a link to my working visualization in VizHub (https://vizhub.com/SamyAttia/efae66c35b3847d18a3ce08f3db35fba?mode=embed). 
+This shows the heatmap and scatter plot along with country flags for visual clarity and user interaction.
+
 
 ## Open Questions
 
