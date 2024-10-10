@@ -34,7 +34,8 @@ Below is a sketch of the envisioned interactive visualization:
 I’ve created a proof-of-concept visualization of this data. It currently includes a heatmap for visualizing correlations 
 between happiness factors for the top 10 countries and an interactive scatter plot that allows for further exploration of these relationships.
 
-(https://drive.google.com/file/d/10uuHP-EIVthht_uSKHYFjQ-8ZXTuXn1A/view?usp=sharing)]
+<img width="1505" alt="Screenshot 2024-10-10 at 5 27 58 PM" src="https://github.com/user-attachments/assets/d140b681-27ca-4a8d-b887-f5d7cf00d281">
+
 (https://www.figma.com/design/V1NfUYcf1hLHd2lE51fVJa/Untitled?node-id=0-1&t=FoKz9Pb3IEuVv2fQ-1)
 
 Here’s a link to my working visualization in VizHub (https://vizhub.com/SamyAttia/efae66c35b3847d18a3ce08f3db35fba?mode=embed). 
