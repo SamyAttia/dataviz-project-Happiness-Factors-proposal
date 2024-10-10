@@ -35,6 +35,9 @@ I’ve created a proof-of-concept visualization of this data. It currently inclu
 between happiness factors for the top 10 countries and an interactive scatter plot that allows for further exploration of these relationships.
 
 <img width="1505" alt="Screenshot 2024-10-10 at 5 27 58 PM" src="https://github.com/user-attachments/assets/d140b681-27ca-4a8d-b887-f5d7cf00d281">
+<img width="1501" alt="Screenshot 2024-10-10 at 5 54 36 PM" src="https://github.com/user-attachments/assets/d9d1813b-fa4d-4f15-854e-f755b3bd5457">
+<img width="1507" alt="Screenshot 2024-10-10 at 5 54 54 PM" src="https://github.com/user-attachments/assets/270c7d73-37d5-441c-bcca-0ce63c26ba95">
+
 
 (https://www.figma.com/design/V1NfUYcf1hLHd2lE51fVJa/Untitled?node-id=0-1&t=FoKz9Pb3IEuVv2fQ-1)
 
