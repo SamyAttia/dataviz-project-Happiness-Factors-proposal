@@ -1,48 +1,41 @@
+# World Happiness Report 2022
 # Data Visualization Project
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The dataset used for this project is from the World Happiness Report 2022 (https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2022?select=World+Happiness+Report+2022.csv) , loaded and parsed as a CSV file. It includes various factors contributing to a country's happiness score, such as GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption. Flags used in the visualizations are sourced from Circle Flags Gallery (https://hatscripts.github.io/circle-flags/gallery).
 
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * Analyze the correlation between GDP per capita and the happiness score across countries.
+ * Understand the geographic distribution of happiness scores by country.
+ * Observe how different factors (GDP per capita, social support, healthy life expectancy, etc.) contribute to happiness in top-ranking countries.
+ * Identify countries with high happiness scores but low perceptions of corruption.
+ * Examine the distribution of happiness scores across different continents or regions.
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+Below is a sketch of the envisioned interactive visualization:
 
-
-## Prototypes
-
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
-
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments, and link to them)
-
-You can put images into here by pasting them into issues.
-
-You can make images into links like this:
-
-```
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-```
-
-
-Also, you can study the [source](https://raw.githubusercontent.com/curran/dataviz-project-template-proposal/master/README.md) to figure out Markdown formatting. You can use the GitHub built-in editor to edit the document.
+* Heatmap View: A heatmap displaying correlations between happiness factors such as GDP, social support,
+  and life expectancy. Users can hover over cells to see specific correlation values, and clicking
+  a cell will drill down into a scatter plot view.
+ * Country Circle Panels: Side panels with circles representing the top 10 happiest countries.
+   Hovering over each circle displays additional country-specific information (e.g., happiness score, GDP, social support).
+   This serves as a quick reference to understand which countries rank highest and their respective happiness factors.
+ * Scatter Plot View: Upon clicking a heatmap cell, a scatter plot appears, showing the relationship between two happiness factors for all countries.
+   This allows for deeper exploration of the relationships between individual factors.
+   
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+While the project has progressed smoothly, I have a few concerns regarding the future scope:
+
+* How can we ensure that the visual transitions between the heatmap and scatter plot remain fluid across different screen sizes?
+* How should we handle missing or incomplete data from certain countries to avoid skewing correlation results or visual anomalies?
+
 
 ## Milestones
-
-(for each week, estimate what would be accomplised)
