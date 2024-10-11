@@ -53,3 +53,8 @@ While the project has progressed smoothly, I have a few concerns regarding the f
 
 
 ## Milestones
+
+* Week 9: Fix year representation, color legend, flickering, and clarify the top/bottom 5 countries.
+* Week 10: Implement scatter plot matrix and scatter plots in tooltips, resolve heatmap flickering.
+* Week 11: Add choropleth map and parallel coordinates plot.
+* Week 12: Conduct testing, write documentation, and polish the design.
