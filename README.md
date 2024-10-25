@@ -34,10 +34,11 @@ Below is a sketch of the envisioned interactive visualization:
 I’ve created a proof-of-concept visualization of this data. It currently includes a heatmap for visualizing correlations 
 between happiness factors for the top 10 countries and an interactive scatter plot that allows for further exploration of these relationships.
 
-<img width="1505" alt="Screenshot 2024-10-10 at 5 27 58 PM" src="https://github.com/user-attachments/assets/d140b681-27ca-4a8d-b887-f5d7cf00d281">
-<img width="1501" alt="Screenshot 2024-10-10 at 5 54 36 PM" src="https://github.com/user-attachments/assets/d9d1813b-fa4d-4f15-854e-f755b3bd5457">
-<img width="1507" alt="Screenshot 2024-10-10 at 5 54 54 PM" src="https://github.com/user-attachments/assets/270c7d73-37d5-441c-bcca-0ce63c26ba95">
+<img width="1503" alt="Screenshot 2024-10-25 at 12 00 35 AM" src="https://github.com/user-attachments/assets/f47b8c9d-0db7-4842-b9a2-f1c474827b1b">
 
+<img width="1507" alt="Screenshot 2024-10-25 at 12 00 46 AM" src="https://github.com/user-attachments/assets/81cf32ca-b790-4e0f-ae33-c120890a5442">
+
+<img width="1502" alt="Screenshot 2024-10-25 at 12 00 58 AM" src="https://github.com/user-attachments/assets/b0b5deb6-9622-436c-ad4a-1789c9afc218">
 
 
 Here’s a link to my working visualization in VizHub (https://vizhub.com/SamyAttia/efae66c35b3847d18a3ce08f3db35fba?mode=embed). 
@@ -54,7 +55,7 @@ While the project has progressed smoothly, I have a few concerns regarding the f
 
 ## Milestones
 
-* Week 9: Fix year representation, color legend, flickering, and clarify the top/bottom 5 countries.
+* Week 9: Update: This visualization now includes two side panels. The left panel displays the top 5 countries with the highest happiness scores, while the right panel shows the bottom 5 countries in the dataset. Each panel includes interactive circles with country flags, and detailed statistics are displayed on hover.
 * Week 10: Implement scatter plot matrix and scatter plots in tooltips, resolve heatmap flickering.
 * Week 11: Add choropleth map and parallel coordinates plot.
 * Week 12: Conduct testing, write documentation, and polish the design.
