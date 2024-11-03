@@ -56,7 +56,7 @@ between happiness factors for the top 10 countries and an interactive scatter pl
 * Rotate the map by dragging to view different regions.
 * Zoom in/out to focus on specific areas.
 * Hover over circles for detailed insights on happiness factors.
-* Click Switch to Heatmap View for an alternative visualization mode. (Coming soon)
+* Hover over Explore Happiness Factor button for detaied correlation insight.
 
 Here’s a link to my working visualization in VizHub (https://vizhub.com/SamyAttia/efae66c35b3847d18a3ce08f3db35fba?mode=embed). 
 This shows the heatmap and scatter plot along with country flags for visual clarity and user interaction.
