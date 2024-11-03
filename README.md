@@ -74,5 +74,5 @@ While the project has progressed smoothly, I have a few concerns regarding the f
 
 * Week 9: Update: This visualization now includes two side panels. The left panel displays the top 5 countries with the highest happiness scores, while the right panel shows the bottom 5 countries in the dataset. Each panel includes interactive circles with country flags, and detailed statistics are displayed on hover.
 * Week 10: Added World map to visualize all 146 countries, ranks, and happiness scores.
-* Week 11: Add choropleth map and parallel coordinates plot.
+* Week 11: Add scatter plots for Happiness factors correlation.
 * Week 12: Conduct testing, write documentation, and polish the design.
