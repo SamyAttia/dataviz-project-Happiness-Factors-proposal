@@ -35,13 +35,15 @@ I’ve created a proof-of-concept visualization of this data. It currently inclu
 between happiness factors for the top 10 countries and an interactive scatter plot that allows for further exploration of these relationships.
 
 <img width="1484" alt="Screenshot 2024-11-02 at 10 46 57 PM" src="https://github.com/user-attachments/assets/196c593b-196e-4227-b37a-0a0668651d23">
-<img width="1487" alt="Screenshot 2024-11-02 at 10 47 26 PM" src="https://github.com/user-attachments/assets/764089c4-1865-48bd-89c3-45c443f3add6">
-<img width="1477" alt="Screenshot 2024-11-02 at 10 47 40 PM" src="https://github.com/user-attachments/assets/a953b856-aac0-416c-aca5-d168f2a6eb6c">
+d168f2a6eb6c">
 <img width="1482" alt="Screenshot 2024-11-02 at 10 47 52 PM" src="https://github.com/user-attachments/assets/8db3e8ef-903f-49a6-8078-5b9b25a9d3cc">
 <img width="1483" alt="Screenshot 2024-11-02 at 10 49 22 PM" src="https://github.com/user-attachments/assets/391a5645-699b-46e6-9eea-570437083226">
 <img width="1481" alt="Screenshot 2024-11-02 at 10 49 58 PM" src="https://github.com/user-attachments/assets/c31c5a50-543d-483f-8996-191f95846f58">
 <img width="1481" alt="Screenshot 2024-11-02 at 10 50 11 PM" src="https://github.com/user-attachments/assets/67dfd1d2-1eab-40f2-9f04-2497721bd95c">
-<img width="1485" alt="Screenshot 2024-11-02 at 10 50 39 PM" src="https://github.com/user-attachments/assets/6dbeda51-2b9c-466b-8b70-04ffc3cfb196">
+<img width="1505" alt="Screenshot 2024-11-06 at 3 46 47 PM" src="https://github.com/user-attachments/assets/fc57c6ef-8c1d-4043-8859-e59246ab8923">
+<img width="1504" alt="Screenshot 2024-11-06 at 4 02 52 PM" src="https://github.com/user-attachments/assets/9d325187-73c7-4890-8740-c94b06fbcebc">
+<img width="1502" alt="Screenshot 2024-11-06 at 3 47 13 PM" src="https://github.com/user-attachments/assets/60ce40a2-5a97-4d58-870e-83121ed6214d">
+
 
 ## Key Insights
 
