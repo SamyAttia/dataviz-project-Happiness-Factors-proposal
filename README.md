@@ -60,6 +60,8 @@ between happiness factors for the top 10 countries and an interactive scatter pl
 * Donut Chart Visualization: The side panels now feature donut charts for each country, breaking down the contributing happiness factors visually. Each donut chart displays the influence of GDP, Social Support, Life Expectancy, Freedom, Generosity, and Perceptions of Corruption, providing a quick overview of the social and economic factors shaping each country's happiness score.
 
 * Visual Comparison: The side panels allow for a quick comparison between the happiest and least happy countries, showing distinct economic and social contrasts that influence happiness. The donut charts offer an at-a-glance understanding of how each factor contributes to a country's overall happiness.
+  
+* Legend and Circle Interaction: The newly added legend categorizes countries based on happiness score ranges. By selecting a category, only the countries within the chosen range remain highlighted, enhancing focus on specific happiness levels across the world. This feature allows for easy comparison of countries within a similar happiness bracket and helps reveal regional trends within each score range.
 
 ## Usage
 * Rotate the map by dragging to view different regions.
@@ -67,6 +69,7 @@ between happiness factors for the top 10 countries and an interactive scatter pl
 * Hover over circles for detailed insights on happiness factors.
 * Hover over the Explore Happiness Factors button for a detailed correlation insight using scatter plots.
 * Side Panel Donut Charts: Hovering over a country's flag in the side panels reveals a donut chart that visually represents key happiness factors, * enhancing your understanding of each country's unique happiness profile.
+* Legend Interaction: Click on the legend categories to filter countries based on happiness score ranges (>7.0, 6.0-7.0, 5.0-6.0, and <5.0). This highlights only the selected range on the map, making it easier to analyze regions with similar happiness scores.
 
 Here’s a link to my working visualization in VizHub (https://vizhub.com/SamyAttia/efae66c35b3847d18a3ce08f3db35fba?mode=embed). 
 This shows the heatmap and scatter plot along with country flags for visual clarity and user interaction.
@@ -86,4 +89,5 @@ While the project has progressed smoothly, I have a few concerns regarding the f
 * Week 10: Added World map to visualize all 146 countries, ranks, and happiness scores.
 * Week 11: Added scatter plots for Happiness factors correlation.
 * Week 12: Added Donut Chart Visualization: The side panels feature donut charts for each country.
-* Week 13: Conduct testing, write documentation, and polish the design.
+* Week 13: Added interactive legend that filter countries on the map by happiness score range, highlighting only the selected score category for focused analysis.
+* Week 14: Conduct testing, write documentation, and polish the design.
