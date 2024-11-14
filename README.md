@@ -34,16 +34,17 @@ Below is a sketch of the envisioned interactive visualization:
 I’ve created a proof-of-concept visualization of this data. It currently includes a heatmap for visualizing correlations 
 between happiness factors for the top 10 countries and an interactive scatter plot that allows for further exploration of these relationships.
 
-<img width="1484" alt="Screenshot 2024-11-02 at 10 46 57 PM" src="https://github.com/user-attachments/assets/196c593b-196e-4227-b37a-0a0668651d23">
-d168f2a6eb6c">
-<img width="1482" alt="Screenshot 2024-11-02 at 10 47 52 PM" src="https://github.com/user-attachments/assets/8db3e8ef-903f-49a6-8078-5b9b25a9d3cc">
-<img width="1483" alt="Screenshot 2024-11-02 at 10 49 22 PM" src="https://github.com/user-attachments/assets/391a5645-699b-46e6-9eea-570437083226">
-<img width="1481" alt="Screenshot 2024-11-02 at 10 49 58 PM" src="https://github.com/user-attachments/assets/c31c5a50-543d-483f-8996-191f95846f58">
-<img width="1481" alt="Screenshot 2024-11-02 at 10 50 11 PM" src="https://github.com/user-attachments/assets/67dfd1d2-1eab-40f2-9f04-2497721bd95c">
-<img width="1506" alt="Screenshot 2024-11-06 at 5 16 21 PM" src="https://github.com/user-attachments/assets/b32c0199-9756-48f9-afcd-b023e1763d91">
-<img width="1500" alt="Screenshot 2024-11-06 at 5 15 38 PM" src="https://github.com/user-attachments/assets/cf116d4f-e1d6-487a-b222-eef22a10dfe8">
-<img width="1497" alt="Screenshot 2024-11-06 at 5 44 40 PM" src="https://github.com/user-attachments/assets/b0ac21ca-35bd-4c72-9a69-7ea887dd8f90">
-<img width="1501" alt="Screenshot 2024-11-06 at 5 11 45 PM" src="https://github.com/user-attachments/assets/420b94d5-7276-4a91-871a-37ce09ac7c30">
+<img width="1489" alt="Screenshot 2024-11-13 at 8 26 39 PM" src="https://github.com/user-attachments/assets/acbcfa19-3c32-4e0b-a225-d891ea410929">
+<img width="1489" alt="Screenshot 2024-11-13 at 8 27 28 PM" src="https://github.com/user-attachments/assets/be94c8c3-a68e-49d4-b4b5-934d9e72f521">
+<img width="1496" alt="Screenshot 2024-11-13 at 8 28 36 PM" src="https://github.com/user-attachments/assets/84930099-cb84-4377-97a0-5a2796a1601d">
+<img width="1489" alt="Screenshot 2024-11-13 at 8 29 26 PM" src="https://github.com/user-attachments/assets/db163fc6-2dee-4ef1-b185-e1af36bf67eb">
+<img width="1485" alt="Screenshot 2024-11-13 at 8 29 54 PM" src="https://github.com/user-attachments/assets/6ed1a8d6-8c0a-46b8-89c6-1689b4259379">
+<img width="1491" alt="Screenshot 2024-11-13 at 8 30 55 PM" src="https://github.com/user-attachments/assets/73e925c6-ab35-411f-8aa7-1ad8196678c9">
+<img width="1488" alt="Screenshot 2024-11-13 at 8 31 22 PM" src="https://github.com/user-attachments/assets/e6e3aa70-8c41-4779-b47f-1c32a34ca4bc">
+<img width="1489" alt="Screenshot 2024-11-13 at 8 34 47 PM" src="https://github.com/user-attachments/assets/6e207c3b-448a-4e6e-a1ed-dd7ebed74128">
+<img width="1491" alt="Screenshot 2024-11-13 at 8 35 12 PM" src="https://github.com/user-attachments/assets/5e13a089-18c2-4cca-a810-1ed432dc0485">
+<img width="1488" alt="Screenshot 2024-11-13 at 8 35 30 PM" src="https://github.com/user-attachments/assets/ade31921-4d9d-4258-b53a-308ade144608">
+<img width="1492" alt="Screenshot 2024-11-13 at 8 35 39 PM" src="https://github.com/user-attachments/assets/182caee6-f732-4858-a368-40da6ba13549">
 <img width="1502" alt="Screenshot 2024-11-06 at 3 47 13 PM" src="https://github.com/user-attachments/assets/60ce40a2-5a97-4d58-870e-83121ed6214d">
 
 
