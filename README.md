@@ -34,19 +34,17 @@ Below is a sketch of the envisioned interactive visualization:
 I’ve created a proof-of-concept visualization of this data. It currently includes a heatmap for visualizing correlations 
 between happiness factors for the top 10 countries and an interactive scatter plot that allows for further exploration of these relationships.
 
-<img width="1489" alt="Screenshot 2024-11-13 at 8 26 39 PM" src="https://github.com/user-attachments/assets/acbcfa19-3c32-4e0b-a225-d891ea410929">
-<img width="1489" alt="Screenshot 2024-11-13 at 8 27 28 PM" src="https://github.com/user-attachments/assets/be94c8c3-a68e-49d4-b4b5-934d9e72f521">
-<img width="1496" alt="Screenshot 2024-11-13 at 8 28 36 PM" src="https://github.com/user-attachments/assets/84930099-cb84-4377-97a0-5a2796a1601d">
-<img width="1489" alt="Screenshot 2024-11-13 at 8 29 26 PM" src="https://github.com/user-attachments/assets/db163fc6-2dee-4ef1-b185-e1af36bf67eb">
-<img width="1485" alt="Screenshot 2024-11-13 at 8 29 54 PM" src="https://github.com/user-attachments/assets/6ed1a8d6-8c0a-46b8-89c6-1689b4259379">
-<img width="1491" alt="Screenshot 2024-11-13 at 8 30 55 PM" src="https://github.com/user-attachments/assets/73e925c6-ab35-411f-8aa7-1ad8196678c9">
-<img width="1488" alt="Screenshot 2024-11-13 at 8 31 22 PM" src="https://github.com/user-attachments/assets/e6e3aa70-8c41-4779-b47f-1c32a34ca4bc">
-<img width="1489" alt="Screenshot 2024-11-13 at 8 34 47 PM" src="https://github.com/user-attachments/assets/6e207c3b-448a-4e6e-a1ed-dd7ebed74128">
-<img width="1491" alt="Screenshot 2024-11-13 at 8 35 12 PM" src="https://github.com/user-attachments/assets/5e13a089-18c2-4cca-a810-1ed432dc0485">
-<img width="1488" alt="Screenshot 2024-11-13 at 8 35 30 PM" src="https://github.com/user-attachments/assets/ade31921-4d9d-4258-b53a-308ade144608">
-<img width="1492" alt="Screenshot 2024-11-13 at 8 35 39 PM" src="https://github.com/user-attachments/assets/182caee6-f732-4858-a368-40da6ba13549">
-<img width="1502" alt="Screenshot 2024-11-06 at 3 47 13 PM" src="https://github.com/user-attachments/assets/60ce40a2-5a97-4d58-870e-83121ed6214d">
-
+<img width="1502" alt="Screenshot 2024-11-16 at 5 48 34 PM" src="https://github.com/user-attachments/assets/a29f0b52-61ae-4d55-b620-d34618272b88">
+<img width="1506" alt="Screenshot 2024-11-16 at 5 49 07 PM" src="https://github.com/user-attachments/assets/ecd09e21-dd07-4119-9809-f4f3b88aa84c">
+<img width="1507" alt="Screenshot 2024-11-16 at 5 50 01 PM" src="https://github.com/user-attachments/assets/694e52f9-63ad-42af-886c-fe0debba25e5">
+<img width="1506" alt="Screenshot 2024-11-16 at 5 50 55 PM" src="https://github.com/user-attachments/assets/773d301f-f71c-4b06-9dcc-cc4e42ca72e5">
+<img width="1506" alt="Screenshot 2024-11-16 at 5 51 24 PM" src="https://github.com/user-attachments/assets/62b7d1f7-a0c9-4f29-8d4d-f48281fb1ff5">
+<img width="1505" alt="Screenshot 2024-11-16 at 5 52 17 PM" src="https://github.com/user-attachments/assets/ec0a8a4a-3f0f-47dc-8e66-adf030a26303">
+<img width="1507" alt="Screenshot 2024-11-16 at 5 52 36 PM" src="https://github.com/user-attachments/assets/140415bc-9f0b-4028-9d2f-00dc61dd4ca0">
+<img width="1508" alt="Screenshot 2024-11-16 at 5 53 01 PM" src="https://github.com/user-attachments/assets/a0ef4f83-c3c2-4131-a5c0-7b65ad05c4a6">
+<img width="1506" alt="Screenshot 2024-11-16 at 5 53 23 PM" src="https://github.com/user-attachments/assets/ce9a9820-104d-4c75-b1af-ad93ad3fc4ce">
+<img width="1502" alt="Screenshot 2024-11-16 at 5 53 46 PM" src="https://github.com/user-attachments/assets/6ae4401e-c329-4722-9345-30e66184491e">
+<img width="1504" alt="Screenshot 2024-11-16 at 5 58 38 PM" src="https://github.com/user-attachments/assets/cd102574-803c-4251-a38a-aebc68255b84">
 
 ## Key Insights
 * High Happiness Clusters: Countries in Northern Europe, such as Finland, Denmark, and Iceland, score among the highest in happiness. This aligns with strong social support, high GDP per capita, and good life expectancy typically observed in these nations.
