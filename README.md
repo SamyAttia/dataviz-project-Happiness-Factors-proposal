@@ -40,6 +40,7 @@ between happiness factors for the top 10 countries and an interactive scatter pl
 <img width="1506" alt="Screenshot 2024-11-16 at 5 50 55 PM" src="https://github.com/user-attachments/assets/773d301f-f71c-4b06-9dcc-cc4e42ca72e5">
 <img width="1506" alt="Screenshot 2024-11-16 at 5 51 24 PM" src="https://github.com/user-attachments/assets/62b7d1f7-a0c9-4f29-8d4d-f48281fb1ff5">
 <img width="1505" alt="Screenshot 2024-11-16 at 5 52 17 PM" src="https://github.com/user-attachments/assets/ec0a8a4a-3f0f-47dc-8e66-adf030a26303">
+<img width="1506" alt="Screenshot 2024-11-16 at 6 32 38 PM" src="https://github.com/user-attachments/assets/f13d1413-fcb3-4fa6-843f-3e132cea7ecc">
 <img width="1507" alt="Screenshot 2024-11-16 at 5 52 36 PM" src="https://github.com/user-attachments/assets/140415bc-9f0b-4028-9d2f-00dc61dd4ca0">
 <img width="1508" alt="Screenshot 2024-11-16 at 5 53 01 PM" src="https://github.com/user-attachments/assets/a0ef4f83-c3c2-4131-a5c0-7b65ad05c4a6">
 <img width="1506" alt="Screenshot 2024-11-16 at 5 53 23 PM" src="https://github.com/user-attachments/assets/ce9a9820-104d-4c75-b1af-ad93ad3fc4ce">
