@@ -34,18 +34,20 @@ Below is a sketch of the envisioned interactive visualization:
 I’ve created a proof-of-concept visualization of this data. It currently includes a heatmap for visualizing correlations 
 between happiness factors for the top 10 countries and an interactive scatter plot that allows for further exploration of these relationships.
 
-<img width="1502" alt="Screenshot 2024-11-16 at 5 48 34 PM" src="https://github.com/user-attachments/assets/a29f0b52-61ae-4d55-b620-d34618272b88">
-<img width="1506" alt="Screenshot 2024-11-16 at 5 49 07 PM" src="https://github.com/user-attachments/assets/ecd09e21-dd07-4119-9809-f4f3b88aa84c">
-<img width="1507" alt="Screenshot 2024-11-16 at 5 50 01 PM" src="https://github.com/user-attachments/assets/694e52f9-63ad-42af-886c-fe0debba25e5">
-<img width="1506" alt="Screenshot 2024-11-16 at 5 50 55 PM" src="https://github.com/user-attachments/assets/773d301f-f71c-4b06-9dcc-cc4e42ca72e5">
-<img width="1506" alt="Screenshot 2024-11-16 at 5 51 24 PM" src="https://github.com/user-attachments/assets/62b7d1f7-a0c9-4f29-8d4d-f48281fb1ff5">
-<img width="1505" alt="Screenshot 2024-11-16 at 5 52 17 PM" src="https://github.com/user-attachments/assets/ec0a8a4a-3f0f-47dc-8e66-adf030a26303">
-<img width="1506" alt="Screenshot 2024-11-16 at 6 32 38 PM" src="https://github.com/user-attachments/assets/f13d1413-fcb3-4fa6-843f-3e132cea7ecc">
-<img width="1507" alt="Screenshot 2024-11-16 at 5 52 36 PM" src="https://github.com/user-attachments/assets/140415bc-9f0b-4028-9d2f-00dc61dd4ca0">
-<img width="1508" alt="Screenshot 2024-11-16 at 5 53 01 PM" src="https://github.com/user-attachments/assets/a0ef4f83-c3c2-4131-a5c0-7b65ad05c4a6">
-<img width="1506" alt="Screenshot 2024-11-16 at 5 53 23 PM" src="https://github.com/user-attachments/assets/ce9a9820-104d-4c75-b1af-ad93ad3fc4ce">
-<img width="1502" alt="Screenshot 2024-11-16 at 5 53 46 PM" src="https://github.com/user-attachments/assets/6ae4401e-c329-4722-9345-30e66184491e">
-<img width="1504" alt="Screenshot 2024-11-16 at 5 58 38 PM" src="https://github.com/user-attachments/assets/cd102574-803c-4251-a38a-aebc68255b84">
+<img width="1501" alt="Screenshot 2024-11-16 at 11 43 09 PM" src="https://github.com/user-attachments/assets/bd8591cf-5b94-4edf-80cc-2d9940718fb4">
+<img width="1503" alt="Screenshot 2024-11-16 at 11 43 26 PM" src="https://github.com/user-attachments/assets/fc3a2166-e0da-411d-8065-c727fe3ad87e">
+<img width="1499" alt="Screenshot 2024-11-16 at 11 44 04 PM" src="https://github.com/user-attachments/assets/eb10e619-bba4-48f4-9538-a52d3c328191">
+<img width="1502" alt="Screenshot 2024-11-16 at 11 44 23 PM" src="https://github.com/user-attachments/assets/322eb646-88db-4e2e-9183-1d7f9951e200">
+<img width="1504" alt="Screenshot 2024-11-16 at 11 44 47 PM" src="https://github.com/user-attachments/assets/8762f0d0-75d1-4067-8091-5b52bf2b1936">
+<img width="1504" alt="Screenshot 2024-11-16 at 11 44 58 PM" src="https://github.com/user-attachments/assets/dbaaafa8-03ad-4c65-94e1-a5fd282af7fe">
+<img width="1506" alt="Screenshot 2024-11-16 at 11 45 24 PM" src="https://github.com/user-attachments/assets/ad3a7185-8ce1-4c98-b29c-7df766e163ce">
+<img width="1506" alt="Screenshot 2024-11-16 at 11 45 37 PM" src="https://github.com/user-attachments/assets/2dff7501-3bad-495e-9137-2b8f954e7b50">
+<img width="1504" alt="Screenshot 2024-11-16 at 11 46 04 PM" src="https://github.com/user-attachments/assets/f73afb79-cdc0-4cbf-a2b4-0b2a47ed4319">
+<img width="1506" alt="Screenshot 2024-11-16 at 11 46 37 PM" src="https://github.com/user-attachments/assets/7a0bde3c-6310-4648-bc27-142069eae105">
+<img width="1507" alt="Screenshot 2024-11-16 at 11 46 45 PM" src="https://github.com/user-attachments/assets/473d842b-0381-4577-9fd1-64e08e7d4916">
+<img width="1507" alt="Screenshot 2024-11-16 at 11 46 56 PM" src="https://github.com/user-attachments/assets/5bda7d60-2838-4697-a797-408e803c2018">
+<img width="1504" alt="Screenshot 2024-11-16 at 11 47 03 PM" src="https://github.com/user-attachments/assets/06572d5e-3dc6-4b2d-8bb1-81771f63e5e9">
+<img width="1502" alt="Screenshot 2024-11-16 at 11 47 16 PM" src="https://github.com/user-attachments/assets/5d6e277b-baee-40c4-8fe4-1bdafa8576c1">
 
 ## Key Insights
 * High Happiness Clusters: Countries in Northern Europe, such as Finland, Denmark, and Iceland, score among the highest in happiness. This aligns with strong social support, high GDP per capita, and good life expectancy typically observed in these nations.
