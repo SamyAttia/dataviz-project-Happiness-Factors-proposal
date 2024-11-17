@@ -77,14 +77,6 @@ Here’s a link to my working visualization in VizHub (https://vizhub.com/SamyAt
 This shows the heatmap and scatter plot along with country flags for visual clarity and user interaction.
 
 
-## Open Questions
-
-While the project has progressed smoothly, I have a few concerns regarding the future scope:
-
-* How can we ensure that the visual transitions between the heatmap and scatter plot remain fluid across different screen sizes?
-* How should we handle missing or incomplete data from certain countries to avoid skewing correlation results or visual anomalies?
-
-
 ## Milestones
 
 * Week 9: Update: This visualization now includes two side panels. The left panel displays the top 5 countries with the highest happiness scores, while the right panel shows the bottom 5 countries in the dataset. Each panel includes interactive circles with country flags, and detailed statistics are displayed on hover.
