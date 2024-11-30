@@ -90,7 +90,6 @@ The project began with conceptual sketches, envisioning multiple visualization c
 <img width="1509" alt="Screenshot 2024-11-24 at 8 59 21 AM" src="https://github.com/user-attachments/assets/13c51fac-c0ec-4fc2-bd08-0b0daac21d84">
 <img width="1507" alt="Screenshot 2024-11-24 at 9 00 09 AM" src="https://github.com/user-attachments/assets/0bd5a241-d9a4-4394-ba58-3a0502c0a538">
 <img width="1493" alt="Screenshot 2024-11-24 at 10 09 30 AM" src="https://github.com/user-attachments/assets/902b9557-b24f-4119-aaca-98f123989bd0">
-<img width="1512" alt="Screenshot 2024-11-24 at 10 11 50 AM" src="https://github.com/user-attachments/assets/2ad4cae9-9039-4650-9bb0-3946837f852c">
 
 ## Next Steps
 
