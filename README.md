@@ -68,7 +68,7 @@ The project began with conceptual sketches, envisioning multiple visualization c
 ## Interactive Legend
 * Filter countries by score ranges (e.g., >7.0, 6.0-7.0) using the legend. Highlighted countries dynamically adjust based on the selected range.
 
-<img width="1512" alt="Screenshot 2024-11-24 at 10 12 45 AM" src="https://github.com/user-attachments/assets/ece92643-f80c-4010-bd42-60a369c31279">
+<img width="1490" alt="Screenshot 2024-11-24 at 10 11 50 AM" src="https://github.com/user-attachments/assets/b4fc76b0-1342-4187-86b5-3161e4e8a995">
 
 ## Key Insights
 
