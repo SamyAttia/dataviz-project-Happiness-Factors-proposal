@@ -1,87 +1,104 @@
-# World Happiness Report 2022
-# Data Visualization Project
+# World Happiness Report 2022:
+# An Interactive Visualization
+
+The World Happiness Report 2022 offers fascinating insights into the factors that contribute to happiness across nations. Leveraging this rich dataset, I created an interactive visualization to uncover patterns and correlations among happiness factors such as GDP per capita, social support, life expectancy, and more. This project merges data storytelling with user-centric interactivity to deliver an engaging and informative exploration of happiness worldwide.
+
+<img width="1487" alt="Screenshot 2024-11-23 at 9 03 09 PM" src="https://github.com/user-attachments/assets/73806b60-5a7e-4787-807d-7d063cd366fc">
 
 ## Data
 
-The dataset used for this project is from the World Happiness Report 2022 (https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2022?select=World+Happiness+Report+2022.csv) , loaded and parsed as a CSV file. It includes various factors contributing to a country's happiness score, such as GDP per capita, social support, healthy life expectancy, freedom to make life choices, generosity, and perceptions of corruption. Flags used in the visualizations are sourced from Circle Flags Gallery (https://hatscripts.github.io/circle-flags/gallery).
+The dataset is sourced from the World Happiness Report 2022 (https://www.kaggle.com/datasets/ajaypalsinghlo/world-happiness-report-2022?select=World+Happiness+Report+2022.csv), It provides comprehensive metrics for 146 countries, detailing factors such as:
 
+* GDP per capita
+* Social support
+* Healthy life expectancy
+* Freedom to make life choices
+* Generosity
+* Perceptions of corruption
 
-## Questions & Tasks
+Flags for countries are sourced from the Circle Flags Gallery to enhance visual clarity. https://hatscripts.github.io/circle-flags/gallery
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+## Project Objectives
 
- * Analyze the correlation between GDP per capita and the happiness score across countries.
- * Understand the geographic distribution of happiness scores by country.
- * Observe how different factors (GDP per capita, social support, healthy life expectancy, etc.) contribute to happiness in top-ranking countries.
- * Identify countries with high happiness scores but low perceptions of corruption.
- * Examine the distribution of happiness scores across different continents or regions.
+This project aims to answer critical questions through visualization:
 
-## Sketches
+ * What is the correlation between GDP per capita and happiness scores?
+ * How are happiness scores distributed geographically?
+ * Which factors drive happiness in the top-ranking countries?
+ * Can we identify outliers—countries with high happiness despite low perceptions of corruption?
+ * How do happiness scores differ across continents?
 
-Below is a sketch of the envisioned interactive visualization:
+## Development Journey
 
-* Heatmap View: A heatmap displaying correlations between happiness factors such as GDP, social support,
-  and life expectancy. Users can hover over cells to see specific correlation values, and clicking
-  a cell will drill down into a scatter plot view.
- * Country Circle Panels: Side panels with circles representing the top 10 happiest countries.
-   Hovering over each circle displays additional country-specific information (e.g., happiness score, GDP, social support).
-   This serves as a quick reference to understand which countries rank highest and their respective happiness factors.
- * Scatter Plot View: Upon clicking a heatmap cell, a scatter plot appears, showing the relationship between two happiness factors for all countries.
-   This allows for deeper exploration of the relationships between individual factors.
-   
-## Prototype
+## Initial Sketches
+The project began with conceptual sketches, envisioning multiple visualization components:
 
-I’ve created a proof-of-concept visualization of this data. It currently includes a heatmap for visualizing correlations 
-between happiness factors for the top 10 countries and an interactive scatter plot that allows for further exploration of these relationships.
-
-<img width="1508" alt="Screenshot 2024-11-17 at 11 23 25 AM" src="https://github.com/user-attachments/assets/6b2d9941-db4f-455b-b19f-23f0a65a4dbe">
-<img width="1504" alt="Screenshot 2024-11-17 at 11 23 40 AM" src="https://github.com/user-attachments/assets/16aa2ad5-5e9d-4fb5-89b7-6a6370167071">
-<img width="1508" alt="Screenshot 2024-11-17 at 11 24 44 AM" src="https://github.com/user-attachments/assets/0605bb30-4bb5-4e8e-ab5f-63227a6bce43">
-<img width="1507" alt="Screenshot 2024-11-17 at 11 25 32 AM" src="https://github.com/user-attachments/assets/8067a16b-b52f-4260-9f7e-b42447639a54">
-<img width="1505" alt="Screenshot 2024-11-17 at 11 26 02 AM" src="https://github.com/user-attachments/assets/e36a033a-0512-41d0-b2a3-256c56e182f0">
-<img width="1508" alt="Screenshot 2024-11-17 at 11 27 36 AM" src="https://github.com/user-attachments/assets/b2732348-04a3-4614-bfc6-9c452aeb583e">
-<img width="1506" alt="Screenshot 2024-11-17 at 11 28 04 AM" src="https://github.com/user-attachments/assets/9a30f43c-e2bb-4c39-bc8b-b0440b6d8d83">
-<img width="1505" alt="Screenshot 2024-11-17 at 11 29 51 AM" src="https://github.com/user-attachments/assets/1112baac-04a8-4b7f-9d95-3d9e523ffb7d">
-<img width="1504" alt="Screenshot 2024-11-17 at 11 30 03 AM" src="https://github.com/user-attachments/assets/9edd57f0-f165-4e1d-ab73-c051ea69a6ac">
-<img width="1505" alt="Screenshot 2024-11-17 at 11 30 59 AM" src="https://github.com/user-attachments/assets/5bf75b7d-a00e-4461-83ee-d0e2ba766171">
-<img width="1506" alt="Screenshot 2024-11-17 at 11 31 08 AM" src="https://github.com/user-attachments/assets/be965d08-0434-407d-8440-865858090820">
-<img width="1502" alt="Screenshot 2024-11-17 at 11 31 23 AM" src="https://github.com/user-attachments/assets/631dec8e-f80d-42be-8d8e-1594fdf13ba0">
-<img width="1508" alt="Screenshot 2024-11-17 at 11 31 29 AM" src="https://github.com/user-attachments/assets/4a6aac49-27c3-4a75-984e-08cc3635a6bd">
-<img width="1508" alt="Screenshot 2024-11-17 at 11 31 38 AM" src="https://github.com/user-attachments/assets/1dae13e6-b6b8-44b7-8480-c0953c1f57d4">
-<img width="1502" alt="Screenshot 2024-11-16 at 11 47 16 PM" src="https://github.com/user-attachments/assets/5d6e277b-baee-40c4-8fe4-1bdafa8576c1">
-
-## Key Insights
-* High Happiness Clusters: Countries in Northern Europe, such as Finland, Denmark, and Iceland, score among the highest in happiness. This aligns with strong social support, high GDP per capita, and good life expectancy typically observed in these nations.
-
-* Low Happiness Scores: The bottom 5 countries are primarily located in regions with economic instability or lower standards of living, like Zimbabwe and Lebanon. Factors such as lower GDP and limited social support might contribute to these scores.
-
-* Geographic Distribution: The map reveals clusters of high and low happiness that reflect global economic and social patterns. European and North American regions generally show higher happiness scores, whereas parts of Africa and the Middle East have lower scores.
-
-* Interactivity and Data Depth: Hovering over each country's circle on the map provides specific data on Happiness Score, GDP per Capita, Social Support, and Life Expectancy—key components influencing happiness scores.
-
-* Donut Chart Visualization: The side panels now feature donut charts for each country, breaking down the contributing happiness factors visually. Each donut chart displays the influence of GDP, Social Support, Life Expectancy, Freedom, Generosity, and Perceptions of Corruption, providing a quick overview of the social and economic factors shaping each country's happiness score.
-
-* Visual Comparison: The side panels allow for a quick comparison between the happiest and least happy countries, showing distinct economic and social contrasts that influence happiness. The donut charts offer an at-a-glance understanding of how each factor contributes to a country's overall happiness.
-  
-* Legend and Circle Interaction: The newly added legend categorizes countries based on happiness score ranges. By selecting a category, only the countries within the chosen range remain highlighted, enhancing focus on specific happiness levels across the world. This feature allows for easy comparison of countries within a similar happiness bracket and helps reveal regional trends within each score range.
-
-## Usage
-* Rotate the map by dragging to view different regions.
-* Zoom in/out to focus on specific areas.
-* Hover over circles for detailed insights on happiness factors.
-* Hover over the Explore Happiness Factors button for a detailed correlation insight using scatter plots.
-* Side Panel Donut Charts: Hovering over a country's flag in the side panels reveals a donut chart that visually represents key happiness factors, * enhancing your understanding of each country's unique happiness profile.
-* Legend Interaction: Click on the legend categories to filter countries based on happiness score ranges (>7.0, 6.0-7.0, 5.0-6.0, and <5.0). This highlights only the selected range on the map, making it easier to analyze regions with similar happiness scores.
-
-Here’s a link to my working visualization in VizHub (https://vizhub.com/SamyAttia/efae66c35b3847d18a3ce08f3db35fba?mode=embed). 
-This shows the heatmap and scatter plot along with country flags for visual clarity and user interaction.
-
+* Interactive Map: Highlighting geographic trends and happiness scores across all countries.
+* Side Panels: Displaying the top and bottom 5 countries with detailed factor breakdowns.
+* Scatter Plots: Offering deeper insights into factor relationships.
 
 ## Milestones
 
-* Week 9: Update: This visualization now includes two side panels. The left panel displays the top 5 countries with the highest happiness scores, while the right panel shows the bottom 5 countries in the dataset. Each panel includes interactive circles with country flags, and detailed statistics are displayed on hover.
-* Week 10: Added World map to visualize all 146 countries, ranks, and happiness scores.
-* Week 11: Added scatter plots for Happiness factors correlation.
-* Week 12: Added Donut Chart Visualization: The side panels feature donut charts for each country.
-* Week 13: Added interactive legend that filter countries on the map by happiness score range, highlighting only the selected score category for focused analysis.
-* Week 14: Conduct testing, write documentation, and polish the design.
+* Week 9: Implemented interactive side panels for the top and bottom 5 happiest countries, including country flags and hover-based details.
+* Week 10: Added a world map to visualize happiness scores and ranks for all 146 countries.
+* Week 11: Introduced scatter plots to explore correlations between happiness factors.
+* Week 12: Developed donut charts in side panels for factor-specific breakdowns.
+* Week 13: Integrated an interactive legend to filter countries by happiness score ranges.
+* Week 14: Finalized design, conducted usability testing, and polished the user interface.
+   
+## Interactive Features
+
+## Dynamic Map
+* Circles represent countries, scaled and color-coded by happiness scores.
+* Hovering over a circle displays detailed data, including happiness score, GDP, and rank.
+
+<img width="1486" alt="Screenshot 2024-11-23 at 9 02 22 PM" src="https://github.com/user-attachments/assets/500570e8-d1c1-4f50-ab29-be6e2c79c450">
+
+## Side Panels
+* The left panel highlights the top 5 happiest countries, while the right panel features the bottom 5.
+* Each panel includes donut charts visualizing factor contributions like GDP, life expectancy, and social support.
+
+<img width="1507" alt="Screenshot 2024-11-24 at 9 00 09 AM" src="https://github.com/user-attachments/assets/a1bf0633-6f07-453b-9f02-15e7c66854bb">
+
+## Scatter Plots
+* Explore how happiness factors correlate with scores through an interactive tooltip featuring scatter plots for factors like GDP and life expectancy.
+
+<img width="1512" alt="Screenshot 2024-11-29 at 11 06 30 AM" src="https://github.com/user-attachments/assets/56392a12-8e22-4f0c-bf76-578936dad722">
+
+## Interactive Legend
+* Filter countries by score ranges (e.g., >7.0, 6.0-7.0) using the legend. Highlighted countries dynamically adjust based on the selected range.
+
+<img width="1512" alt="Screenshot 2024-11-24 at 10 12 45 AM" src="https://github.com/user-attachments/assets/ece92643-f80c-4010-bd42-60a369c31279">
+
+## Key Insights
+
+* Happiest Countries: Finland, Denmark, and Iceland rank highest, driven by strong social support, high GDP, and life expectancy.
+* Least Happy Countries: Afghanistan and Zimbabwe score lowest, reflecting economic challenges and limited social infrastructure.
+* Geographic Trends: Northern Europe consistently outperforms other regions, while parts of Africa and the Middle East show lower scores.
+* Factor Analysis: GDP, life expectancy, and social support emerge as the strongest predictors of happiness in top-ranking nations.
+
+## Final Visualization
+
+* The project culminates in a polished, user-friendly interface combining aesthetics with data depth. Screenshots below highlight the key components:
+
+<img width="1489" alt="Screenshot 2024-11-23 at 8 59 58 PM" src="https://github.com/user-attachments/assets/50723df0-9be4-421a-bc5f-e281a3f7d633">
+<img width="1489" alt="Screenshot 2024-11-23 at 9 02 05 PM" src="https://github.com/user-attachments/assets/bfc43ace-dcab-44fa-a348-f4197fd5968c">
+<img width="1486" alt="Screenshot 2024-11-23 at 9 02 22 PM" src="https://github.com/user-attachments/assets/034692ca-3f26-49db-bb44-6bb45408a6dc">
+<img width="1485" alt="Screenshot 2024-11-23 at 9 03 39 PM" src="https://github.com/user-attachments/assets/9fdaaf25-596f-4990-a65e-baefbf5e182d">
+<img width="1488" alt="Screenshot 2024-11-23 at 9 10 47 PM" src="https://github.com/user-attachments/assets/abf88682-b7d1-42df-a3a2-a9cdb0fde505">
+<img width="1508" alt="Screenshot 2024-11-24 at 8 57 54 AM" src="https://github.com/user-attachments/assets/78e29269-181d-4b13-bdb8-7e47d2793b56">
+<img width="1509" alt="Screenshot 2024-11-24 at 8 59 21 AM" src="https://github.com/user-attachments/assets/13c51fac-c0ec-4fc2-bd08-0b0daac21d84">
+<img width="1507" alt="Screenshot 2024-11-24 at 9 00 09 AM" src="https://github.com/user-attachments/assets/0bd5a241-d9a4-4394-ba58-3a0502c0a538">
+<img width="1493" alt="Screenshot 2024-11-24 at 10 09 30 AM" src="https://github.com/user-attachments/assets/902b9557-b24f-4119-aaca-98f123989bd0">
+<img width="1512" alt="Screenshot 2024-11-24 at 10 11 50 AM" src="https://github.com/user-attachments/assets/2ad4cae9-9039-4650-9bb0-3946837f852c">
+
+## Next Steps
+
+This visualization serves as a foundation for deeper analysis and storytelling. Future enhancements could include:
+
+* Region-specific breakdowns.
+* Year-over-year happiness trends.
+* Predictive modeling to forecast future scores.
+  
+This project showcases my ability to design, code, and deliver interactive data visualizations, making it a proud addition to my portfolio.
+
