@@ -91,6 +91,8 @@ The project began with conceptual sketches, envisioning multiple visualization c
 <img width="1507" alt="Screenshot 2024-11-24 at 9 00 09 AM" src="https://github.com/user-attachments/assets/0bd5a241-d9a4-4394-ba58-3a0502c0a538">
 <img width="1493" alt="Screenshot 2024-11-24 at 10 09 30 AM" src="https://github.com/user-attachments/assets/902b9557-b24f-4119-aaca-98f123989bd0">
 
+You can explore it live at this link https://vizhub.com/SamyAttia/58136a55eb7145f88c887b9ab5cceccc
+
 ## Next Steps
 
 This visualization serves as a foundation for deeper analysis and storytelling. Future enhancements could include:
