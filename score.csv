@@ -1,0 +1,147 @@
+country,latitude,longitude,happinessScore,Validated Country,Validated Country Normalized,Mismatch
+Finland,60.1699,24.9384,7.821,Suomi / Finland,Finland,False
+Denmark,55.6761,12.5683,7.636,Danmark,Denmark,False
+Iceland,64.1355,-21.8954,7.557,Ísland,Iceland,False
+Switzerland,46.8182,8.2275,7.512,Schweiz/Suisse/Svizzera/Svizra,Switzerland,False
+Netherlands,52.3676,4.9041,7.415,Nederland,Netherlands,False
+Luxembourg,49.6116,6.1319,7.404,Lëtzebuerg,Luxembourg,False
+Sweden,59.3293,18.0686,7.384,Sverige,Sweden,False
+Norway,60.472,8.4689,7.365,Norge,Norway,False
+Israel,31.0461,34.8516,7.364,ישראל,Israel,False
+New Zealand,-40.9006,174.886,7.2,New Zealand / Aotearoa,New Zealand,False
+Austria,47.5162,14.5501,7.163,Österreich,Austria,False
+Australia,-25.2744,133.7751,7.162,Australia,Australia,False
+Ireland,53.1424,-7.6921,7.041,Éire / Ireland,Ireland,False
+Germany,51.1657,10.4515,7.034,Deutschland,Germany,False
+Canada,56.1304,-106.3468,7.025,Canada,Canada,False
+United States,37.0902,-95.7129,6.977,United States,United States,False
+United Kingdom,55.3781,-3.436,6.943,United Kingdom,United Kingdom,False
+Czechia,49.8175,15.473,6.92,Česko,Czechia,False
+Belgium,50.8503,4.3517,6.805,België / Belgique / Belgien,Belgium,False
+France,46.6034,1.8883,6.687,France,France,False
+Bahrain,26.0667,50.5577,6.647,البحرين,Bahrain,False
+Slovenia,46.1512,14.9955,6.63,Slovenija,Slovenia,False
+Costa Rica,9.7489,-83.7534,6.582,Costa Rica,Costa Rica,False
+United Arab Emirates,23.4241,53.8478,6.576,الإمارات العربية المتحدة,United Arab Emirates,False
+Saudi Arabia,23.8859,45.0792,6.523,السعودية,Saudi Arabia,False
+Taiwan Province of China,23.6978,120.9605,6.512,臺灣,Taiwan Province of China,False
+Singapore,1.3521,103.8198,6.48,Singapore,Singapore,False
+Romania,45.9432,24.9668,6.477,România,Romania,False
+Spain,40.4637,-3.7492,6.476,España,Spain,False
+Uruguay,-32.5228,-55.7658,6.474,Uruguay,Uruguay,False
+Italy,41.8719,12.5674,6.467,Italia,Italy,False
+Kosovo,42.6026,20.903,6.455,Kosova / Kosovo,Kosovo,False
+Malta,35.9375,14.3754,6.447,Malta,Malta,False
+Lithuania,55.1694,23.8813,6.446,Lietuva,Lithuania,False
+Slovakia,48.669,19.699,6.391,Slovensko,Slovakia,False
+Estonia,58.5953,25.0136,6.341,Eesti,Estonia,False
+Panama,8.5379,-80.7821,6.309,Panamá,Panama,False
+Brazil,-14.235,-51.9253,6.293,Brasil,Brazil,False
+Guatemala,15.7835,-90.2308,6.262,Guatemala,Guatemala,False
+Kazakhstan,48.0196,66.9237,6.234,Қазақстан,Kazakhstan,False
+Cyprus,35.1264,33.4299,6.221,Κύπρος - Kıbrıs,Cyprus,False
+Latvia,56.8796,24.6032,6.18,Latvija,Latvia,False
+Serbia,44.0165,21.0059,6.178,Србија,Serbia,False
+Chile,-35.6751,-71.543,6.172,Chile,Chile,False
+Nicaragua,12.8654,-85.2072,6.165,Nicaragua,Nicaragua,False
+Mexico,23.6345,-102.5528,6.128,México,Mexico,False
+Croatia,45.1,15.2,6.125,Hrvatska,Croatia,False
+Poland,51.9194,19.1451,6.123,Polska,Poland,False
+El Salvador,13.7942,-88.8965,6.12,El Salvador,El Salvador,False
+Kuwait,29.3759,47.9774,6.106,الكويت,Kuwait,False
+Hungary,47.1625,19.5033,6.086,Magyarország,Hungary,False
+Mauritius,-20.3484,57.5522,6.071,Mauritius / Maurice,Mauritius,False
+Uzbekistan,41.3775,64.5853,6.063,Oʻzbekiston,Uzbekistan,False
+Japan,36.2048,138.2529,6.039,日本,Japan,False
+Honduras,15.199,-86.2419,6.022,Honduras,Honduras,False
+Portugal,39.3999,-8.2245,6.016,Portugal,Portugal,False
+Argentina,-38.4161,-63.6167,5.967,Argentina,Argentina,False
+Greece,39.0742,21.8243,5.948,Ελλάς,Greece,False
+South Korea,35.9078,127.7669,5.935,대한민국,South Korea,False
+Philippines,12.8797,121.774,5.904,Pilipinas,Philippines,False
+Thailand,15.87,100.9925,5.891,ประเทศไทย,Thailand,False
+Moldova,47.4116,28.3699,5.857,Moldova,Moldova,False
+Jamaica,18.1096,-77.2975,5.85,Jamaica,Jamaica,False
+Kyrgyzstan,41.2044,74.7661,5.828,Кыргызстан,Kyrgyzstan,False
+Belarus,53.7098,27.9534,5.821,Беларусь,Belarus,False
+Colombia,4.5709,-74.2973,5.781,Colombia,Colombia,False
+Bosnia and Herzegovina,43.9159,17.6791,5.768,Bosna i Hercegovina / Босна и Херцеговина,Bosnia and Herzegovina,False
+Mongolia,46.8625,103.8467,5.761,Монгол улс ᠮᠤᠩᠭᠤᠯ ᠤᠯᠤᠰ,Mongolia,False
+Dominican Republic,18.7357,-70.1627,5.737,República Dominicana,Dominican Republic,False
+Malaysia,4.2105,101.9758,5.711,Malaysia,Malaysia,False
+Bolivia,-16.2902,-63.5887,5.6,Bolivia,Bolivia,False
+China,35.8617,104.1954,5.585,中国,China,False
+Paraguay,-23.4425,-58.4438,5.578,Paraguay / Paraguái,Paraguay,False
+Peru,-9.1899,-75.0152,5.559,Perú,Peru,False
+Montenegro,42.7087,19.3744,5.547,Crna Gora / Црна Гора,Montenegro,False
+Ecuador,-1.8312,-78.1834,5.533,Ecuador,Ecuador,False
+Vietnam,14.0583,108.2772,5.485,Việt Nam,Vietnam,False
+Turkmenistan,38.9697,59.5563,5.474,Türkmenistan,Turkmenistan,False
+North Cyprus,35.1264,33.4299,5.467,Κύπρος - Kıbrıs,North Cyprus,False
+Russia,61.524,105.3188,5.459,Россия,Russia,False
+Hong Kong S.A.R. of China,22.3193,114.1694,5.425,中国,Hong Kong S.A.R. of China,False
+Armenia,40.0691,45.0382,5.399,Հայաստան,Armenia,False
+Tajikistan,38.861,71.2761,5.377,Тоҷикистон,Tajikistan,False
+Nepal,28.3949,84.124,5.377,नेपाल,Nepal,False
+Bulgaria,42.7339,25.4858,5.371,България,Bulgaria,False
+Libya,26.3351,17.2283,5.33,ليبيا,Libya,False
+Indonesia,-0.7893,113.9213,5.24,Indonesia,Indonesia,False
+Ivory Coast,7.539988,-5.54708,5.235,Côte d’Ivoire,Ivory Coast,False
+North Macedonia,41.6086,21.7453,5.199,Северна Македонија,North Macedonia,False
+Albania,41.1533,20.1683,5.199,Shqipëria,Albania,False
+South Africa,-30.5595,22.9375,5.194,South Africa,South Africa,False
+Azerbaijan,40.1431,47.5769,5.173,Azərbaycan,Azerbaijan,False
+Gambia,13.4432,-15.3101,5.164,Gambia,Gambia,False
+Bangladesh,23.685,90.3563,5.155,বাংলাদেশ,Bangladesh,False
+Laos,19.8563,102.4955,5.14,ປະເທດລາວ,Laos,False
+Algeria,28.0339,1.6596,5.122,Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر,Algeria,False
+Liberia,6.4281,-9.4295,5.122,Liberia,Liberia,False
+Ukraine,48.3794,31.1656,5.084,Україна,Ukraine,False
+Congo,-0.228,15.8277,5.075,Congo,Congo,False
+Morocco,31.7917,-7.0926,5.06,Maroc ⵍⵎⵖⵔⵉⴱ المغرب,Morocco,False
+Mozambique,-18.6657,35.5296,5.048,Moçambique,Mozambique,False
+Cameroon,7.3697,12.3547,5.048,Cameroun,Cameroon,False
+Senegal,14.4974,-14.4524,5.046,Sénégal,Senegal,False
+Niger,17.6078,8.0817,5.003,Niger,Niger,False
+Georgia,42.3154,43.3569,4.973,საქართველო,Georgia,False
+Gabon,-0.8037,11.6094,4.958,Gabon,Gabon,False
+Iraq,33.2232,43.6793,4.941,العراق,Iraq,False
+Venezuela,6.4238,-66.5897,4.925,Venezuela,Venezuela,False
+Guinea,9.9456,-9.6966,4.891,Guinée,Guinea,False
+Iran,32.4279,53.688,4.888,ایران,Iran,False
+Ghana,7.9465,-1.0232,4.872,Ghana,Ghana,False
+Turkey,38.9637,35.2433,4.744,Türkiye,Turkey,False
+Burkina Faso,12.2383,-1.5616,4.67,Burkina Faso,Burkina Faso,False
+Cambodia,12.5657,104.991,4.64,ព្រះរាជាណាចក្រ​កម្ពុជា,Cambodia,False
+Benin,9.3077,2.3158,4.623,Bénin,Benin,False
+Comoros,-11.875,43.8722,4.609,Comores Komori جزر القمر,Comoros,False
+Uganda,1.3733,32.2903,4.603,Uganda,Uganda,False
+Nigeria,9.082,8.6753,4.552,Nigeria,Nigeria,False
+Kenya,-1.2921,36.8219,4.543,Kenya,Kenya,False
+Tunisia,33.8869,9.5375,4.516,تونس,Tunisia,False
+Pakistan,30.3753,69.3451,4.516,پاکستان,Pakistan,False
+Palestinian Territories,31.9522,35.2332,4.483,Palestinian Territory,Palestinian Territories,False
+Mali,17.5707,-3.9962,4.479,Mali,Mali,False
+Namibia,-22.9576,18.4904,4.459,Namibia,Namibia,False
+Eswatini,-26.5225,31.4659,4.396,Eswatini,Eswatini,False
+Myanmar,21.9162,95.956,4.394,မြန်မာ,Myanmar,False
+Sri Lanka,7.8731,80.7718,4.362,Sri Lanka,Sri Lanka,False
+Madagascar,-18.7669,46.8691,4.339,Madagasikara / Madagascar,Madagascar,False
+Egypt,26.8206,30.8025,4.288,مصر,Egypt,False
+Chad,15.4542,18.7322,4.251,Tchad تشاد,Chad,False
+Ethiopia,9.145,40.4897,4.241,ኢትዮጵያ,Ethiopia,False
+Yemen,15.5527,48.5164,4.197,اليمن,Yemen,False
+Mauritania,21.0079,-10.9408,4.153,موريتانيا,Mauritania,False
+Jordan,30.5852,36.2384,4.152,الأردن,Jordan,False
+Togo,8.6195,0.8248,4.112,Togo,Togo,False
+India,20.5937,78.9629,3.777,India,India,False
+Zambia,-13.1339,27.8493,3.76,Zambia,Zambia,False
+Malawi,-13.2543,34.3015,3.75,Malawi,Malawi,False
+Tanzania,-6.369,34.8888,3.702,Tanzania,Tanzania,False
+Sierra Leone,8.4606,-11.7799,3.574,Sierra Leone,Sierra Leone,False
+Lesotho,-29.6099,28.2336,3.512,Lesotho,Lesotho,False
+Botswana,-22.3285,24.6849,3.471,Botswana,Botswana,False
+Rwanda,-1.9403,29.8739,3.268,Rwanda,Rwanda,False
+Zimbabwe,-19.0154,29.1549,2.995,Zimbabwe,Zimbabwe,False
+Lebanon,33.8547,35.8623,2.955,لبنان,Lebanon,False
+Afghanistan,33.9391,67.71,2.404,افغانستان,Afghanistan,False
