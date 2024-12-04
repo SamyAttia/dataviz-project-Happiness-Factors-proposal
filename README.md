@@ -3,7 +3,7 @@
 
 The World Happiness Report 2022 offers fascinating insights into the factors that contribute to happiness across nations. Leveraging this rich dataset, I created an interactive visualization to uncover patterns and correlations among happiness factors such as GDP per capita, social support, life expectancy, and more. This project merges data storytelling with user-centric interactivity to deliver an engaging and informative exploration of happiness worldwide.
 
-<img width="1487" alt="Screenshot 2024-11-23 at 9 03 09 PM" src="https://github.com/user-attachments/assets/73806b60-5a7e-4787-807d-7d063cd366fc">
+<img width="1468" alt="Screenshot 2024-12-03 at 6 46 53 PM" src="https://github.com/user-attachments/assets/a477decf-ebc2-4859-88e9-4168e58fe900">
 
 ## Data
 
@@ -36,15 +36,6 @@ The project began with conceptual sketches, envisioning multiple visualization c
 * Interactive Map: Highlighting geographic trends and happiness scores across all countries.
 * Side Panels: Displaying the top and bottom 5 countries with detailed factor breakdowns.
 * Scatter Plots: Offering deeper insights into factor relationships.
-
-## Milestones
-
-* Week 9: Implemented interactive side panels for the top and bottom 5 happiest countries, including country flags and hover-based details.
-* Week 10: Added a world map to visualize happiness scores and ranks for all 146 countries.
-* Week 11: Introduced scatter plots to explore correlations between happiness factors.
-* Week 12: Developed donut charts in side panels for factor-specific breakdowns.
-* Week 13: Integrated an interactive legend to filter countries by happiness score ranges.
-* Week 14: Finalized design, conducted usability testing, and polished the user interface.
    
 ## Interactive Features
 
@@ -52,23 +43,23 @@ The project began with conceptual sketches, envisioning multiple visualization c
 * Circles represent countries, scaled and color-coded by happiness scores.
 * Hovering over a circle displays detailed data, including happiness score, GDP, and rank.
 
-<img width="1486" alt="Screenshot 2024-11-23 at 9 02 22 PM" src="https://github.com/user-attachments/assets/500570e8-d1c1-4f50-ab29-be6e2c79c450">
+<img width="1472" alt="Screenshot 2024-12-03 at 6 58 17 PM" src="https://github.com/user-attachments/assets/4fd658b7-81e5-466d-9f8c-6383f37f81ec">
 
 ## Side Panels
 * The left panel highlights the top 5 happiest countries, while the right panel features the bottom 5.
 * Each panel includes donut charts visualizing factor contributions like GDP, life expectancy, and social support.
 
-<img width="1507" alt="Screenshot 2024-11-24 at 9 00 09 AM" src="https://github.com/user-attachments/assets/a1bf0633-6f07-453b-9f02-15e7c66854bb">
+<img width="1470" alt="Screenshot 2024-12-03 at 6 59 49 PM" src="https://github.com/user-attachments/assets/3e20d235-ba08-4a22-bd03-3f83482f4c9d">
 
 ## Scatter Plots
 * Explore how happiness factors correlate with scores through an interactive tooltip featuring scatter plots for factors like GDP and life expectancy.
 
-<img width="1512" alt="Screenshot 2024-11-29 at 11 06 30 AM" src="https://github.com/user-attachments/assets/56392a12-8e22-4f0c-bf76-578936dad722">
+<img width="1481" alt="Screenshot 2024-12-03 at 6 49 57 PM" src="https://github.com/user-attachments/assets/31257d79-71a7-4b75-affb-5ff5d1f5231f">
 
 ## Interactive Legend
 * Filter countries by score ranges (e.g., >7.0, 6.0-7.0) using the legend. Highlighted countries dynamically adjust based on the selected range.
 
-<img width="1490" alt="Screenshot 2024-11-24 at 10 11 50 AM" src="https://github.com/user-attachments/assets/b4fc76b0-1342-4187-86b5-3161e4e8a995">
+<img width="1474" alt="Screenshot 2024-12-03 at 6 47 33 PM" src="https://github.com/user-attachments/assets/e74cec22-6740-4971-8ace-8af9723b6201">
 
 ## Key Insights
 
@@ -81,15 +72,17 @@ The project began with conceptual sketches, envisioning multiple visualization c
 
 * The project culminates in a polished, user-friendly interface combining aesthetics with data depth. Screenshots below highlight the key components:
 
-<img width="1489" alt="Screenshot 2024-11-23 at 8 59 58 PM" src="https://github.com/user-attachments/assets/50723df0-9be4-421a-bc5f-e281a3f7d633">
-<img width="1489" alt="Screenshot 2024-11-23 at 9 02 05 PM" src="https://github.com/user-attachments/assets/bfc43ace-dcab-44fa-a348-f4197fd5968c">
-<img width="1486" alt="Screenshot 2024-11-23 at 9 02 22 PM" src="https://github.com/user-attachments/assets/034692ca-3f26-49db-bb44-6bb45408a6dc">
-<img width="1485" alt="Screenshot 2024-11-23 at 9 03 39 PM" src="https://github.com/user-attachments/assets/9fdaaf25-596f-4990-a65e-baefbf5e182d">
-<img width="1488" alt="Screenshot 2024-11-23 at 9 10 47 PM" src="https://github.com/user-attachments/assets/abf88682-b7d1-42df-a3a2-a9cdb0fde505">
-<img width="1508" alt="Screenshot 2024-11-24 at 8 57 54 AM" src="https://github.com/user-attachments/assets/78e29269-181d-4b13-bdb8-7e47d2793b56">
-<img width="1509" alt="Screenshot 2024-11-24 at 8 59 21 AM" src="https://github.com/user-attachments/assets/13c51fac-c0ec-4fc2-bd08-0b0daac21d84">
-<img width="1507" alt="Screenshot 2024-11-24 at 9 00 09 AM" src="https://github.com/user-attachments/assets/0bd5a241-d9a4-4394-ba58-3a0502c0a538">
-<img width="1493" alt="Screenshot 2024-11-24 at 10 09 30 AM" src="https://github.com/user-attachments/assets/902b9557-b24f-4119-aaca-98f123989bd0">
+<img width="1454" alt="Screenshot 2024-12-03 at 7 02 46 PM" src="https://github.com/user-attachments/assets/87a36457-2770-4abc-b83e-b2ee17ec001b">
+<img width="1477" alt="Screenshot 2024-12-03 at 6 48 11 PM" src="https://github.com/user-attachments/assets/fab81ae7-afb4-4c5c-b917-7b3c84d57291">
+<img width="1485" alt="Screenshot 2024-12-03 at 6 48 31 PM" src="https://github.com/user-attachments/assets/02d77032-9de0-469b-88df-bd843d1a07c9">
+<img width="1479" alt="Screenshot 2024-12-03 at 6 48 59 PM" src="https://github.com/user-attachments/assets/f2bb9243-7d0a-4ba3-8660-9765a608648f">
+<img width="1480" alt="Screenshot 2024-12-03 at 6 49 21 PM" src="https://github.com/user-attachments/assets/9871b1d3-62b5-4630-9690-2b18d16514c2">
+<img width="1476" alt="Screenshot 2024-12-03 at 6 49 29 PM" src="https://github.com/user-attachments/assets/68dc4cc6-4388-4cb9-9912-8cb3ae8605ff">
+<img width="1479" alt="Screenshot 2024-12-03 at 6 49 35 PM" src="https://github.com/user-attachments/assets/f7def15b-e377-49ff-9655-5359411c193f">
+<img width="1478" alt="Screenshot 2024-12-03 at 6 49 42 PM" src="https://github.com/user-attachments/assets/c5bd9a0a-f631-4d9c-b409-8dcce13319ea">
+<img width="1482" alt="Screenshot 2024-12-03 at 6 49 50 PM" src="https://github.com/user-attachments/assets/552e0bfe-5a0e-4a61-a3fe-02db8c7131d5">
+<img width="1481" alt="Screenshot 2024-12-03 at 6 49 57 PM" src="https://github.com/user-attachments/assets/f813586f-ad64-4497-8c94-8f527382cd3b">
+
 
 You can explore it live at this link https://vizhub.com/SamyAttia/58136a55eb7145f88c887b9ab5cceccc
 
